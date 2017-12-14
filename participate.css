@@ -1,0 +1,224 @@
+/*Vineeth Balachandran*/
+body {
+  background-color: #000304;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    width: 25.50%;
+    text-align: center;
+    position: relative; top: 50px;
+}
+
+li {
+    float: left;
+    position:center;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #03A9F4;
+}
+
+h1 {
+  font-family: garamond;
+  color:white;
+  text-align:center;
+  font-size:90px;
+  text-decoration: underline;
+}
+
+h2 {
+  font-family:Segoe UI;
+  font-size:30px;
+  color:white;
+  position:relative; top:50px;
+  text-align: center;
+}
+
+h3 {
+  font-family:Segoe UI;
+  font-size:16.5px;
+  color:white;
+  position:relative; top:125px;
+  spacing: 1px;
+  text-align: center;
+}
+
+.button {
+  background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    position: relative; top:130px; left:625px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button {
+    background-color: #03A9F4;
+    color: white;
+    border: 2px solid #03A9F4;
+    text-decoration: none;
+}
+
+.button:hover {
+    background-color: white;
+    color: #03A9F4;
+}
+
+.button1 {
+  background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    position: relative; top:130px; left:380px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button1 {
+    background-color: #03A9F4;
+    color: white;
+    border: 2px solid #03A9F4;
+    text-decoration: none;
+}
+
+.button1:hover {
+    background-color: white;
+    color: #03A9F4;
+}
+
+.button2 {
+  background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    position: relative; top:130px; left:470px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button2 {
+    background-color: #03A9F4;
+    color: white;
+    border: 2px solid #03A9F4;
+    text-decoration: none;
+}
+
+.button2:hover {
+    background-color: white;
+    color: #03A9F4;
+}
+
+.button3 {
+  background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    position: relative; top:130px; left:550px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button3 {
+    background-color: #03A9F4;
+    color: white;
+    border: 2px solid #03A9F4;
+    text-decoration: none;
+}
+
+.button3:hover {
+    background-color: white;
+    color: #03A9F4;
+}
+.underline {
+  text-decoration: none;
+  color: white;
+}
+
+.underline:hover {
+  text-decoration: none;
+  color:#03A9F4;
+}
+
+.image {
+  height:225px;
+  width:300px;
+  position:relative; right:-1000px; top:-500px;
+}
+
+
+.line1 {
+  width: 360px;
+}
+
+.line2 {
+  width: 337px;
+}
+.line3 {
+  width: 300px;
+}
+
+.line4 {
+  width: 455px;
+}
+
+.line5 {
+  width: 770px;
+}
+
+.line6 {
+  width: 290px;
+  position: relative; top:1px;
+}
+
+.image1 {
+  width: 220px;
+  height: 220px;
+  position: relative; top:-500px; left: -180px;
+}
+
+.move {
+  position:relative; top:-60px;
+}

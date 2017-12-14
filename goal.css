@@ -1,0 +1,71 @@
+/*Vineeth Balachandran*/
+body {
+  background-color: #000304;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    width: 25.50%;
+    text-align: center;
+}
+
+li {
+    float: left;
+    position:center;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #03A9F4;
+}
+
+h3 {
+  font-family:Segoe UI;
+  color:white;
+  font-size: 36px;
+  text-align: center;
+  position: relative; top: 50px;
+}
+
+
+.box{
+  width: 500px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  position:relative;top:50px; right:-446px;
+}
+
+h2 {
+  font-family:Segoe UI;
+  color:white;
+  text-align:center;
+  font-size:41px
+}
+
+.berry {
+  position: relative; top: -390px; right:-175px;
+}
+
+.minecraft {
+  position: relative; top:-365px; right:-730px;
+}
+
+.move {
+  position: relative; top: 50px;
+}

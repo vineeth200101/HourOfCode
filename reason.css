@@ -1,0 +1,53 @@
+/*Haider*/
+body {
+  background-color: #000304;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    width: 28.5%;
+    text-align: center;
+}
+
+li {
+    float: left;
+    position:center;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #03A9F4;
+}
+
+h1 {
+  font-size: 19px;
+  color: white;
+  font-family: "Raleway", sans serif;
+  }
+
+h2 {
+  font-size: 17px;
+  color: white;
+  font-family: "Raleway", sans serif;
+}
+h3 {
+  font-size: 17px;
+  color: white;
+  font-family: "Raleway", sans serif;
+}
